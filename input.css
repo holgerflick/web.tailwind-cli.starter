@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.demotitle {
+  @apply text-3xl font-bold font-sans text-center mt-20;
+}
